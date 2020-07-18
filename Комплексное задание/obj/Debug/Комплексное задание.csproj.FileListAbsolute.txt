@@ -1,0 +1,16 @@
+C:\Projects\Комплексное задание\Комплексное задание\bin\Debug\Комплексное задание.exe
+C:\Projects\Комплексное задание\Комплексное задание\bin\Debug\Комплексное задание.pdb
+C:\Projects\Комплексное задание\Комплексное задание\obj\Debug\Комплексное задание.csprojResolveAssemblyReference.cache
+C:\Projects\Комплексное задание\Комплексное задание\obj\Debug\Комплексное_задание.Form1.resources
+C:\Projects\Комплексное задание\Комплексное задание\obj\Debug\Комплексное_задание.Properties.Resources.resources
+C:\Projects\Комплексное задание\Комплексное задание\obj\Debug\Комплексное задание.csproj.GenerateResource.Cache
+C:\Projects\Комплексное задание\Комплексное задание\obj\Debug\Комплексное задание.exe
+C:\Projects\Комплексное задание\Комплексное задание\obj\Debug\Комплексное задание.pdb
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\obj\Debug\Комплексное задание.exe
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\obj\Debug\Комплексное задание.pdb
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\bin\Debug\Комплексное задание.exe
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\bin\Debug\Комплексное задание.pdb
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\obj\Debug\Комплексное задание.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\obj\Debug\Комплексное_задание.Form1.resources
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\obj\Debug\Комплексное_задание.Properties.Resources.resources
+C:\Users\Артём\Desktop\Основы программирования\Комплексное задание\obj\Debug\Комплексное задание.csproj.GenerateResource.Cache

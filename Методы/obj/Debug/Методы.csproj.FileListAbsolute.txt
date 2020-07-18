@@ -1,0 +1,10 @@
+C:\Projects\Методы\Методы\bin\Debug\Методы.exe
+C:\Projects\Методы\Методы\bin\Debug\Методы.pdb
+C:\Projects\Методы\Методы\obj\Debug\Методы.Form1.resources
+C:\Projects\Методы\Методы\obj\Debug\Методы.Properties.Resources.resources
+C:\Projects\Методы\Методы\obj\Debug\Методы.csproj.GenerateResource.Cache
+C:\Projects\Методы\Методы\obj\Debug\Методы.exe
+C:\Projects\Методы\Методы\obj\Debug\Методы.pdb
+C:\Projects\Методы\Методы\obj\Debug\Методы.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Основы программирования\Методы\obj\Debug\Методы.exe
+C:\Users\Артём\Desktop\Основы программирования\Методы\obj\Debug\Методы.pdb

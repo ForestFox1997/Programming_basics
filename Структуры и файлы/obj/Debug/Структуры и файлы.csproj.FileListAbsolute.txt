@@ -1,0 +1,18 @@
+C:\Projects\Структуры и файлы\Структуры и файлы\bin\Debug\Структуры и файлы.exe
+C:\Projects\Структуры и файлы\Структуры и файлы\bin\Debug\Структуры и файлы.pdb
+C:\Projects\Структуры и файлы\Структуры и файлы\obj\Debug\Структуры и файлы.csprojResolveAssemblyReference.cache
+C:\Projects\Структуры и файлы\Структуры и файлы\obj\Debug\Структуры_и_файлы.Form1.resources
+C:\Projects\Структуры и файлы\Структуры и файлы\obj\Debug\Структуры_и_файлы.Properties.Resources.resources
+C:\Projects\Структуры и файлы\Структуры и файлы\obj\Debug\Структуры и файлы.csproj.GenerateResource.Cache
+C:\Projects\Структуры и файлы\Структуры и файлы\obj\Debug\Структуры и файлы.exe
+C:\Projects\Структуры и файлы\Структуры и файлы\obj\Debug\Структуры и файлы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\obj\Debug\Структуры и файлы.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\obj\Debug\Структуры и файлы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\bin\Debug\Структуры и файлы.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\bin\Debug\Структуры и файлы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\obj\Debug\Структуры и файлы.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\obj\Debug\Структуры_и_файлы.Form1.resources
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\obj\Debug\Структуры_и_файлы.Properties.Resources.resources
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Структуры и файлы\obj\Debug\Структуры и файлы.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\Основы программирования\Структуры и файлы\obj\Debug\Структуры и файлы.exe
+C:\Users\Артём\Desktop\Основы программирования\Структуры и файлы\obj\Debug\Структуры и файлы.pdb

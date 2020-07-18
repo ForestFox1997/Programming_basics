@@ -1,0 +1,8 @@
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\bin\Release\Циклы.exe
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\bin\Release\Циклы.pdb
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Release\Циклы.csproj.GenerateResource.Cache
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Release\Циклы.exe
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Release\Циклы.pdb

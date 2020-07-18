@@ -1,0 +1,18 @@
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\bin\Debug\Простейшие операторы.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\bin\Debug\Простейшие операторы.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие_операторы.Form1.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие_операторы.Properties.Resources.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.csproj.GenerateResource.Cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\bin\Debug\Простейшие операторы.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\bin\Debug\Простейшие операторы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие_операторы.Form1.resources
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие_операторы.Properties.Resources.resources
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Простейшие операторы\obj\Debug\Простейшие операторы.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\obj\Debug\Простейшие операторы.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\obj\Debug\Простейшие операторы.pdb

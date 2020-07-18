@@ -1,0 +1,8 @@
+C:\Projects\Одномерные массивы\Одномерные массивы\bin\Release\Одномерные массивы.exe
+C:\Projects\Одномерные массивы\Одномерные массивы\bin\Release\Одномерные массивы.pdb
+C:\Projects\Одномерные массивы\Одномерные массивы\obj\Release\Одномерные_массивы.Form1.resources
+C:\Projects\Одномерные массивы\Одномерные массивы\obj\Release\Одномерные_массивы.Properties.Resources.resources
+C:\Projects\Одномерные массивы\Одномерные массивы\obj\Release\Одномерные массивы.csproj.GenerateResource.Cache
+C:\Projects\Одномерные массивы\Одномерные массивы\obj\Release\Одномерные массивы.exe
+C:\Projects\Одномерные массивы\Одномерные массивы\obj\Release\Одномерные массивы.pdb
+C:\Projects\Одномерные массивы\Одномерные массивы\obj\Release\Одномерные массивы.csprojResolveAssemblyReference.cache

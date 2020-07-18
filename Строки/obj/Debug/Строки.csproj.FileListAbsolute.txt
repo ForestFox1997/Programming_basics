@@ -1,0 +1,18 @@
+C:\Projects\Строки\Строки\bin\Debug\Строки.exe
+C:\Projects\Строки\Строки\bin\Debug\Строки.pdb
+C:\Projects\Строки\Строки\obj\Debug\Строки.csprojResolveAssemblyReference.cache
+C:\Projects\Строки\Строки\obj\Debug\Строки.Form1.resources
+C:\Projects\Строки\Строки\obj\Debug\Строки.Properties.Resources.resources
+C:\Projects\Строки\Строки\obj\Debug\Строки.csproj.GenerateResource.Cache
+C:\Projects\Строки\Строки\obj\Debug\Строки.exe
+C:\Projects\Строки\Строки\obj\Debug\Строки.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\obj\Debug\Строки.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\obj\Debug\Строки.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\bin\Debug\Строки.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\bin\Debug\Строки.pdb
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\obj\Debug\Строки.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\obj\Debug\Строки.Form1.resources
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\obj\Debug\Строки.Properties.Resources.resources
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Строки\obj\Debug\Строки.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\Основы программирования\Строки\obj\Debug\Строки.exe
+C:\Users\Артём\Desktop\Основы программирования\Строки\obj\Debug\Строки.pdb

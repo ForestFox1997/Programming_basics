@@ -1,0 +1,10 @@
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\bin\Debug\Контрольное_задание.exe
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\bin\Debug\Контрольное_задание.pdb
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\obj\Debug\Контрольное_задание.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\obj\Debug\Многомерные_массивы.Form1.resources
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\obj\Debug\Многомерные_массивы.Properties.Resources.resources
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\obj\Debug\Контрольное_задание.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\obj\Debug\Контрольное_задание.exe
+C:\Users\Артём\Desktop\Контрольное_задание\Контрольное_задание\obj\Debug\Контрольное_задание.pdb
+C:\Users\Артём\Desktop\Основы программирования\Контрольное_задание\obj\Debug\Контрольное_задание.exe
+C:\Users\Артём\Desktop\Основы программирования\Контрольное_задание\obj\Debug\Контрольное_задание.pdb

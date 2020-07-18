@@ -1,0 +1,26 @@
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\bin\Debug\Выражения.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\bin\Debug\Выражения.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\obj\Debug\Выражения.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\obj\Debug\Выражения.Form1.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\obj\Debug\Выражения.Properties.Resources.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\obj\Debug\Выражения.csproj.GenerateResource.Cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\obj\Debug\Выражения.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения\Выражения\obj\Debug\Выражения.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\obj\Debug\Выражения.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\obj\Debug\Выражения.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\bin\Debug\Выражения.exe
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\bin\Debug\Выражения.pdb
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\obj\Debug\Выражения.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\obj\Debug\Выражения.Form1.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\obj\Debug\Выражения.Properties.Resources.resources
+C:\Users\Артем\Documents\Visual Studio 2015\Projects\Выражения_v2\Выражения\obj\Debug\Выражения.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Выражения\obj\Debug\Выражения.exe
+C:\Users\Артём\Desktop\Основы программирования\Простейшие операторы\Выражения\obj\Debug\Выражения.pdb
+C:\Users\Артём\Desktop\Основы программирования\Выражения\obj\Debug\Выражения.exe
+C:\Users\Артём\Desktop\Основы программирования\Выражения\obj\Debug\Выражения.pdb
+C:\Users\Артём\Desktop\Основы программирования\Выражения\bin\Debug\Выражения.exe
+C:\Users\Артём\Desktop\Основы программирования\Выражения\bin\Debug\Выражения.pdb
+C:\Users\Артём\Desktop\Основы программирования\Выражения\obj\Debug\Выражения.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Основы программирования\Выражения\obj\Debug\Выражения.Form1.resources
+C:\Users\Артём\Desktop\Основы программирования\Выражения\obj\Debug\Выражения.Properties.Resources.resources
+C:\Users\Артём\Desktop\Основы программирования\Выражения\obj\Debug\Выражения.csproj.GenerateResource.Cache

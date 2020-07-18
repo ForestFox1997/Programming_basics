@@ -1,0 +1,26 @@
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\bin\Debug\Циклы.exe
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\bin\Debug\Циклы.pdb
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Debug\Циклы.csproj.GenerateResource.Cache
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Debug\Циклы.exe
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Debug\Циклы.pdb
+C:\Users\Артем\Documents\Visual Studio 2008\Projects\Циклы\Циклы\obj\Debug\Циклы.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\obj\Debug\Циклы.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\obj\Debug\Циклы.pdb
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\bin\Debug\Циклы.exe
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\bin\Debug\Циклы.pdb
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\obj\Debug\Циклы.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Артём\Documents\Visual Studio 2015\Projects\Циклы\obj\Debug\Циклы.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\лол\Циклы\obj\Debug\Циклы.exe
+C:\Users\Артём\Desktop\лол\Циклы\obj\Debug\Циклы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Циклы\obj\Debug\Циклы.exe
+C:\Users\Артём\Desktop\Основы программирования\Циклы\obj\Debug\Циклы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Циклы\bin\Debug\Циклы.exe
+C:\Users\Артём\Desktop\Основы программирования\Циклы\bin\Debug\Циклы.pdb
+C:\Users\Артём\Desktop\Основы программирования\Циклы\obj\Debug\Циклы.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Основы программирования\Циклы\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Артём\Desktop\Основы программирования\Циклы\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Артём\Desktop\Основы программирования\Циклы\obj\Debug\Циклы.csproj.GenerateResource.Cache
